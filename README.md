@@ -16,3 +16,6 @@ Materias Estudadas-
 -flex-shrink
 -justify-content
 -order
+
+
+Esse projeto tem com o intuito do aperfeiçoamento em CSS, com as funcionalidades flex box.
